@@ -1,0 +1,20 @@
+# Terraform arquivos sensíveis
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Sistema operacional específico
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Chaves privadas
+*.pem
+*.key
