@@ -3,7 +3,7 @@ terraform.tfvars
 *.tfstate
 *.tfstate.*
 .terraform/
-.terraform*
+.terraform.*
 
 # Logs e arquivos temporários
 *.log
